@@ -1,0 +1,9 @@
+{
+  "name": "com.elicxir.direction",
+  "version": "1.0.0",
+  "displayName": "Direction",
+  "description": "Package dealing with directions for 2D games",
+  "author": {
+    "name": "ELICXIR"
+  }
+}
